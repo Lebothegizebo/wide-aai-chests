@@ -1,0 +1,5 @@
+RESTRICTED MOD LICENSE
+You may not use any of the assets contained in this mod, wide-aai-containers, for commercial use or otherwise. You may make alterations for your own private personal use only. You are not allowed to distribute any content from the mod assets, or anything altered or derived from those assets. You are not allowed to make money off this mod or any of the contained assets. This software is provided without warranty and the software author/license owner cannot be held liable for damages, nor can Earendel be held liable, as these assets are unofficial. All respective copyright material belongs to its original owners, including all assets used from Earendel's AAI containers mod.
+
+Respective Copyright Materials Homepage:
+https://mods.factorio.com/mod/aai-containers

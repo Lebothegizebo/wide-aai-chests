@@ -1,0 +1,34 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2024-11-18
+  Info:
+    - Updated graphics to support tall chests from Wide Containers 0.2.1.
+    - Version 0.1.1 or above is required for Wide Containers 0.2.1 due to updated graphics.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 21.10.2024
+  Info:
+    - Updated to Factorio 2.0.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 14.10.2024
+  Info:
+    - Updated graphics files for improved compatibility
+    - Version 0.0.3 or above is required for Wide Containers 0.1.7 due to an incorrect icon file.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 13.10.2024
+  Info:
+    - THIS MOD IS NOT OPEN SOURCE. Read the mod license before deriving any assets or making any changes.
+    - Graphics release. Removed all placeholder graphics and unnecessary files. 
+    - This mod acts as a graphics library, and will not function without Wide Containers version 0.1.6 or higher installed.
+    - Future versions of this mod will contain more graphics files, which will be used by higher versions of Wide Containers in the future.
+    - If version 0.0.1 is installed, Wide Containers versions 0.1.6 and higher will not function. Please update your mods if this is the case.
+    - Removed version 0.0.1 from the mod portal. 
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 12.10.2024
+  Info:
+    - Initial Release.
+    - Notice: This mod does nothing by itself, contains placeholder graphics, and is being uploaded to the mod portal for debugging Wide Containers. When the respective graphics have been completed, and the placeholder graphics removed, this mod will update to 0.0.2, but will do nothing until Wide Containers is updated to 0.1.6

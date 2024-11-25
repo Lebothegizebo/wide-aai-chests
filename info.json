@@ -1,0 +1,12 @@
+{
+  "name": "wide-aai-chests",
+  "version": "0.1.1",
+  "title": "Wide AAI Containers (AAI containers compatibility mod)",
+  "author": "Lebothegizebo",
+  "description": "Provides graphics for AAI containers compatibility. This mod does nothing by itself, requires Wide Containers to function, and purely exists to have a separate restricted mod license. This specific mod is not open source, please read the mod license! Thanks to Earendel for allowing modification and use of AAI containers assets.",
+  "dependencies": [
+"base >= 2.0",
+"? aai-containers >= 0.3.0"
+],
+  "factorio_version": "2.0"
+}
