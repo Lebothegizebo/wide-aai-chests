@@ -1,7 +1,10 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.2
-Date: ????
-  Changes:
+Date: 2024-12-29
+  Graphics:
+    - Added graphics for logistics chests. Will change in the future once the logistics chest update is complete.
+  Info:
+    - Version 0.12 or above is required for Wide Containers 0.26 or above due to updated graphics.
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 2024-11-18
