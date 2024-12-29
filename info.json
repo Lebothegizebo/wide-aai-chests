@@ -1,6 +1,6 @@
 {
   "name": "wide-aai-chests",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "title": "Wide AAI Containers (AAI containers compatibility mod)",
   "author": "Lebothegizebo",
   "description": "Provides graphics for AAI containers compatibility. This mod does nothing by itself, requires Wide Containers to function, and purely exists to have a separate restricted mod license. This specific mod is not open source, please read the mod license! Thanks to Earendel for allowing modification and use of AAI containers assets.",
